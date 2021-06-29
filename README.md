@@ -10,4 +10,4 @@
 2.  `npm install`
 3.  `npm start`
 
-### Website template forked from -> https://github.com/bchiang7/bchiang7.github.io
+Website template forked from -> https://github.com/bchiang7/bchiang7.github.io
